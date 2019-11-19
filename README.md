@@ -1,0 +1,2 @@
+# DIGITS-EEG-DATASET-PREPARATION-NOVEL-LSTM
+Preparing Dataset for LSTM model
